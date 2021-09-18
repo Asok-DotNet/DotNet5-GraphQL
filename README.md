@@ -3,7 +3,10 @@ This is a Command getter CURD app built using GraphQL and DotNet 5
 
 #### Architecture
 
-![alt](assets\GraphQL.PNG)
+
+<div style='float: center'>
+  <img style='width: auto' src="assets\GraphQL.PNG"></img>
+</div>
 
 #### Environmental Setup
 

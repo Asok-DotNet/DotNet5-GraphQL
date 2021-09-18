@@ -1,7 +1,12 @@
 
 This is a Command getter CURD app built using GraphQL and DotNet 5
 
+#### Architecture
+
+![alt](assets\GraphQL.PNG)
+
 #### Environmental Setup
+
 Spin up the Docker SQL Server or Use the Local instance
 ```bash
 docker-compose up -d
